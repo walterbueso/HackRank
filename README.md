@@ -1,1 +1,1 @@
-# HackRank
+# HackerRank

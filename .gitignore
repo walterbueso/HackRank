@@ -240,3 +240,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/DataStructures/Challenge1/Properties
+/DataStructures/Challenge1/App.config
+/DataStructures/Challenge1/Challenge1.csproj
